@@ -1,6 +1,6 @@
 # FastAPI Task Management System
 
-A comprehensive REST API application built with FastAPI for enterprise-level task management. This system provides secure user authentication, efficient database operations, and extensive testing coverage suitable for production environments.
+fastapi  python  rest-api  jwt  postgresql  docker  clean-architecture . A comprehensive REST API application built with FastAPI for enterprise-level task management. This system provides secure user authentication, efficient database operations, and extensive testing coverage suitable for production environments.
 
 ## Overview
 
